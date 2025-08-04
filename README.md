@@ -10,7 +10,7 @@
 # Connect with me 🌐
  Join me on this remarkable expedition as I navigate the ever-evolving landscape of computer science and AI. Let's connect, collaborate, and contribute to the digital tapestry that shapes our future. Together, we'll code, innovate, and inspire. 
  
- My linkedin: www.linkedin.com/in/laiba-i-1643ba229
+ My linkedin: [www.linkedin.com/in/laiba-i-1643ba229](https://www.linkedin.com/in/laiba-idrees/)
  
  My Email: laiba.idrees2003@gmail.com
  
