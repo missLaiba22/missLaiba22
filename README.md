@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:7B61FF&height=110&section=header&text=Laiba%20Idrees&fontSize=38&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:7B61FF&height=140&section=header&text=Laiba%20Idrees&fontSize=42&fontColor=ffffff&fontAlignY=72&fontAlign=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Python%20%C2%B7%20FastAPI&descAlignY=88&descSize=16&descColor=ffffff" width="100%"/>
 
-### AI Engineer · Building real AI systems that work
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-idrees)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles-00D4AA?style=for-the-badge)](https://www.linkedin.com/in/laiba-idrees)
@@ -14,7 +14,7 @@
 ```python
 focus    = ["Agentic AI", "FastAPI", "LangChain", "RAG Systems"]
 building = "Autonomous AI agents that think, search and act"
-open_to  = "Remote ·  International roles"
+open_to  = "Remote · International roles"
 ```
 
 
