@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:7B61FF&height=140&section=header&text=Laiba%20Idrees&fontSize=42&fontColor=ffffff&fontAlignY=72&fontAlign=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Python%20%C2%B7%20FastAPI&descAlignY=88&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:7B61FF&height=160&section=header&text=Laiba%20Idrees&fontSize=45&fontColor=ffffff&fontAlignY=55&fontAlign=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Agentic%20AI%20%C2%B7%20Python%20%C2%B7%20FastAPI&descAlignY=72&descSize=16&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -14,9 +14,8 @@
 ```python
 focus    = ["Agentic AI", "FastAPI", "LangChain", "RAG Systems"]
 building = "Autonomous AI agents that think, search and act"
-open_to  = "Remote · International roles"
+open_to  = "Remote ·International roles"
 ```
-
 
 
 ### 🛠️ &nbsp;Stack
