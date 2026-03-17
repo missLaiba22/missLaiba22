@@ -14,21 +14,10 @@
 ```python
 focus    = ["Agentic AI", "FastAPI", "LangChain", "RAG Systems"]
 building = "Autonomous AI agents that think, search and act"
-open_to  = "Remote · EU & International roles"
+open_to  = "Remote ·  International roles"
 ```
 
----
 
-### 🏆 &nbsp;Highlights
-
-🥇 &nbsp;**1st Prize — AI Category · Career Expo 2025**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ HealthMate · AI Healthcare Assistant
-
-🤖 &nbsp;**Cognara** — Agentic Deep Research AI · LangGraph + Gemini + Tavily
-
-👩‍🏫 &nbsp;**Instructor** — Health Data Science · mahv.io Master's Program
-
----
 
 ### 🛠️ &nbsp;Stack
 
